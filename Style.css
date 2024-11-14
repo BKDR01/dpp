@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    width: 1100px;
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
+.os{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 20px;
+    border: 1px solid black;
+    display: flex;
+}
+.os2{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.os3{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: #F7941F;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.box1{
+    margin-top: -90px;
+    width: 50px;
+    height: 50px;
+    background-color: #F7941F;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.os4{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;   
+}
+.os5{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+}
+.os6{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: end;
+}
+.os7{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.os8{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.os9{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    display: flex;
+}
+.os10{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    align-items: end;
+}
+.os11{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+.os12{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
